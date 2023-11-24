@@ -17,3 +17,6 @@ This is the source code for the APUDTnet method. To run it, please install requi
 - `proteinsim2network.txt`: Protein biological processes similarity matrix
 - `proteinsim3network.txt`: Protein cellular component similarity matrix
 - `proteinsim4network.txt`: Protein molecular function similarity matrix
+
+### Tutorial
+We test the code on Windows 11.
