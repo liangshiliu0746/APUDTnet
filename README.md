@@ -18,7 +18,7 @@ This is the source code for the APUDTnet method. To run it, please install requi
 - `proteinsim3network.txt`: Protein cellular component similarity matrix
 - `proteinsim4network.txt`: Protein molecular function similarity matrix
 
-### Tutorial
+## Tutorial
 We test the code on Windows 11.
 1. unzip proteinsim1network.txt.zip, mkdir "output", "classifier_save".
 2. run GAE_embedding.py
