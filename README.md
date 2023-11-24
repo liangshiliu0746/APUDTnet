@@ -20,5 +20,8 @@ This is the source code for the APUDTnet method. To run it, please install requi
 
 ### Tutorial
 We test the code on Windows 11.
-1. unzip proteinsim1network.txt.zip
-2. 
+1. unzip proteinsim1network.txt.zip, mkdir "output", "classifier_save".
+2. run GAE_embedding.py
+3. run data_prepare.py
+4. run GAT_embedding.py
+5. run classifier_save.py
