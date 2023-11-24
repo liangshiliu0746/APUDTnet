@@ -20,3 +20,5 @@ This is the source code for the APUDTnet method. To run it, please install requi
 
 ### Tutorial
 We test the code on Windows 11.
+1. unzip proteinsim1network.txt.zip
+2. 
